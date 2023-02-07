@@ -1,0 +1,103 @@
+    .attribution { font-size: 14px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    body{
+        background-color: hsl(30, 38%, 92%);
+        font-size: 14px;
+    }
+
+    h6{
+        display: inline;
+        position: absolute;
+        padding: 0.5rem;
+        left: 18rem;
+        font-size: 0.7rem;
+        color: hsl(228, 12%, 48%);
+        font-weight: 500;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    h1{
+        display: inline;
+        position: absolute;
+        color: hsl(212, 21%, 14%);
+        font-weight: 700;
+        width: 30%;
+        left: 18rem;
+        top: 2.5rem;
+    }
+
+    .notes{
+        display: inline;
+        position: absolute;
+        color: hsl(228, 12%, 48%);
+        font-weight: 500;
+        font-size: 0.9rem;
+        font-family: 'Montserrat', sans-serif;
+        bottom: 8.5rem;
+        left: 18rem;
+        width: 43%;
+    }
+
+    .cost{
+        display: inline;
+        position: absolute;
+        font-family: 'Fraunces', serif;
+        font-size: 2rem;
+        font-weight: 700;
+        left: 18rem;
+        color: hsl(158, 36%, 37%);
+        bottom: 3.5rem;
+    }
+
+    .img{
+        height: 25rem;
+        float: left;
+    }
+
+    .top-container{
+        position: relative;
+        width: 35rem;
+        height: 25rem;
+        background-color: hsl(0, 0%, 100%);
+        margin: 7rem auto;
+        
+    }
+
+    .strike{
+        color: hsl(228, 12%, 48%);
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        display: inline;
+        position: absolute;
+        font-size: 0.84rem;
+        bottom: 5.2rem;
+        left: 27rem;
+        text-decoration: line-through;
+    }
+
+    .btn {
+        
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        display: inline;
+        position: absolute;
+        width: 30%;
+        -webkit-border-radius: 12;
+        -moz-border-radius: 12;
+        border-radius: 12px;
+        color: #ffffff;
+        font-size: 15px;
+        background: #348f6d;
+        padding: 18px 40px 18px 40px;
+        text-decoration: none;
+        bottom: 0.25rem;
+        left: 18rem;
+      }
+      
+      .btn:hover {
+        background: #08422d;
+        text-decoration: none;
+      }
+      
+
